@@ -2,6 +2,9 @@
 
 ### Estudiante de Ingeniería Informática | Desarrollador | Apasionado por los Datos y la Tecnología 🚀
 
+![Texto alternativo](ruben.jpg)
+
+
 ---
 
 Soy un **estudiante de Ingeniería Informática** con una pasión por el desarrollo de soluciones tecnológicas innovadoras y la gestión de proyectos de datos. Me encanta enfrentar desafíos complejos y trabajar con equipos ágiles para crear **impacto real** a través de la tecnología. Si te gustan los proyectos innovadores y el aprendizaje continuo, ¡estás en el lugar correcto!
