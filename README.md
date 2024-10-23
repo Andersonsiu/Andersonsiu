@@ -2,7 +2,6 @@
 
 ### Estudiante de Ingeniería Informática | Desarrollador | Apasionado por los Datos y la Tecnología 🚀
 
-<img src="https://github.com/Andersonsiu/Andersonsiu/blob//main/ruben.jpg" alt="Mi imagen de perfil" width="250"/>
 ---
 
 Soy un **estudiante de Ingeniería Informática** con una pasión por el desarrollo de soluciones tecnológicas innovadoras y la gestión de proyectos de datos. Me encanta enfrentar desafíos complejos y trabajar con equipos ágiles para crear **impacto real** a través de la tecnología. Si te gustan los proyectos innovadores y el aprendizaje continuo, ¡estás en el lugar correcto!
@@ -21,3 +20,4 @@ Me gusta mantenerme actualizado con las últimas tecnologías y tendencias, part
 
 _¡Gracias por visitar mi perfil de GitHub! Si quieres colaborar en un proyecto o simplemente charlar sobre tecnología, no dudes en contactarme._ 😊
 
+<img src="https://github.com/Andersonsiu/Andersonsiu/blob//main/ruben.jpg" alt="Mi imagen de perfil" width="250"/>
