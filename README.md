@@ -20,4 +20,3 @@ Me gusta mantenerme actualizado con las últimas tecnologías y tendencias, part
 
 _¡Gracias por visitar mi perfil de GitHub! Si quieres colaborar en un proyecto o simplemente charlar sobre tecnología, no dudes en contactarme._ 😊
 
-<img src="https://github.com/Andersonsiu/Andersonsiu/blob//main/ruben.jpg" alt="Mi imagen de perfil" width="250"/>
